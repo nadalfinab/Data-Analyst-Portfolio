@@ -12,13 +12,13 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## Table of Content
 
-- [About] (https://github.com/nadalfinab/Data-Analyst-Portfolio/blob/main/README.md#about)
-- Portfolio Project
-1. Excel
-Case Study: Economic Feasibility Analysis of Efeeder Technology Product
-2. Python
-3. SQL
-4. Data Visualization
+- [About](https://github.com/nadalfinab/Data-Analyst-Portfolio/blob/main/README.md#about)
+- [Portfolio Project](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#portfolio-project)
+  - [Excel](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#portfolio-project)
+    - Case Study: Economic Feasibility Analysis of Efeeder Technology Product
+  - Python
+  - SQL
+  - Data Visualization
 
 - Education
 - Certificate
@@ -27,8 +27,8 @@ Case Study: Economic Feasibility Analysis of Efeeder Technology Product
 ## Portfolio Project
 In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
-1. Excel
-### Case Study: Economic Feasibility Analysis of Efeeder Technology Product
+### Excel
+#### Case Study: Economic Feasibility Analysis of Efeeder Technology Product
 **Goal:** Calculate initial investment requirements and project returns using methods like ROI, payback period, and break-even analysis.
 **Description:** This case study aims to evaluate the economic feasibility of the E-Feeder technology product by applying a data-driven analytical approach. The analysis focuses on assessing the financial viability of the product through the examination of costs, potential revenue, and projected profitability. The study involves collecting and analyzing relevant data, including production costs, operational expenses, pricing strategies, and estimated market demand. Various financial metrics, such as break-even point, return on investment (ROI), and payback period, are used to determine whether the product can generate sustainable profits.
 
@@ -38,5 +38,5 @@ File: [Case Study: Economic Feasibility Analysis of Efeeder Technology Product](
 **Technology:** Microsoft Excel (advanced formulas, pivot tables)
 **Results:** The return on investment (ROI) analysis suggests that the product can generate sustainable profitability if supported by an effective pricing strategy and efficient cost management. Market analysis also indicates a positive demand outlook, particularly within target segments that value automation and efficiency.
 
-2. Python
-### Case Study: 
+### Python
+#### Case Study: 
