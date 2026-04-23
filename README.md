@@ -41,9 +41,11 @@ File: [Case Study: Economic Feasibility Analysis of Efeeder Technology Product](
 ### Python
 #### Case Study: HR Employee Attrition Analysis
 **Goal:** Support HR decision-making in talent retention strategies
+
 **Description:** The analysis reveals that employee attrition is strongly influenced by factors such as job satisfaction, monthly income, and work-life balance. Employees with lower satisfaction levels and shorter tenure show a higher tendency to leave the company.
 
 File: 
 
 **Skills:** Data Cleaning, Data Preparation, Exploratory Data Analysis.
+
 **Results:** The analysis reveals that employee attrition is strongly influenced by factors such as job satisfaction, monthly income, and work-life balance. Employees with lower satisfaction levels and shorter tenure show a higher tendency to leave the company.
