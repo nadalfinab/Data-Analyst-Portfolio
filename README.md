@@ -44,7 +44,7 @@ File: [Case Study: Economic Feasibility Analysis of Efeeder Technology Product](
 
 **Description:** The analysis reveals that employee attrition is strongly influenced by factors such as job satisfaction, monthly income, and work-life balance. Employees with lower satisfaction levels and shorter tenure show a higher tendency to leave the company.
 
-File: [HR Employee Attrition Analysis]( 
+File: [HR Employee Attrition Analysis](HR_Employee_Attrition.ipynb) 
 
 **Skills:** Data Cleaning, Data Preparation, Exploratory Data Analysis.
 
