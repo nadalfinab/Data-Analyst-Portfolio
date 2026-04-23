@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [Portfolio Project](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#portfolio-project)
   - [Excel](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#portfolio-project)
     - Case Study: Economic Feasibility Analysis of Efeeder Technology Product
-  - Python
+  - [Python](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#python)
   - SQL
   - Data Visualization
 
@@ -34,9 +34,16 @@ In this section, I will list data analytics projects, briefly describing the tec
 
 File: [Case Study: Economic Feasibility Analysis of Efeeder Technology Product](https://docs.google.com/spreadsheets/d/1iOGbt6VNsWNFpwltr9e7qpLjdaWGG-Hu/edit?usp=sharing&ouid=108259912517381307676&rtpof=true&sd=true)
 
-**Skills:** Data Analysis & Interpretation, Financial Analysis, Data Visualization, Statistical Analysis (Basic), Market Research & Analysis
+**Skills:** Data Analysis and Interpretation, Financial Analysis, Data Visualization, Statistical Analysis (Basic), Market Research & Analysis
 **Technology:** Microsoft Excel (advanced formulas, pivot tables)
 **Results:** The return on investment (ROI) analysis suggests that the product can generate sustainable profitability if supported by an effective pricing strategy and efficient cost management. Market analysis also indicates a positive demand outlook, particularly within target segments that value automation and efficiency.
 
 ### Python
-#### Case Study: 
+#### Case Study: HR Employee Attrition Analysis
+**Goal:** Support HR decision-making in talent retention strategies
+**Description:** The analysis reveals that employee attrition is strongly influenced by factors such as job satisfaction, monthly income, and work-life balance. Employees with lower satisfaction levels and shorter tenure show a higher tendency to leave the company.
+
+File: 
+
+**Skills:** Data Cleaning, Data Preparation, Exploratory Data Analysis.
+**Results:** The analysis reveals that employee attrition is strongly influenced by factors such as job satisfaction, monthly income, and work-life balance. Employees with lower satisfaction levels and shorter tenure show a higher tendency to leave the company.
