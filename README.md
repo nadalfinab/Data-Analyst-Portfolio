@@ -17,8 +17,9 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [Excel](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#portfolio-project)
     - Case Study: Economic Feasibility Analysis of Efeeder Technology Product
   - [Python](https://github.com/nadalfinab/Data-Analyst-Portfolio/edit/main/README.md#python)
+    - Case Study: HR Employee Attrition Analysis
   - SQL
-  - Data Visualization
+  - Looker Data Studio
 
 - Education
 - Certificate
@@ -30,12 +31,15 @@ In this section, I will list data analytics projects, briefly describing the tec
 ### Excel
 #### Case Study: Economic Feasibility Analysis of Efeeder Technology Product
 **Goal:** Calculate initial investment requirements and project returns using methods like ROI, payback period, and break-even analysis.
+
 **Description:** This case study aims to evaluate the economic feasibility of the E-Feeder technology product by applying a data-driven analytical approach. The analysis focuses on assessing the financial viability of the product through the examination of costs, potential revenue, and projected profitability. The study involves collecting and analyzing relevant data, including production costs, operational expenses, pricing strategies, and estimated market demand. Various financial metrics, such as break-even point, return on investment (ROI), and payback period, are used to determine whether the product can generate sustainable profits.
 
 File: [Case Study: Economic Feasibility Analysis of Efeeder Technology Product](https://docs.google.com/spreadsheets/d/1iOGbt6VNsWNFpwltr9e7qpLjdaWGG-Hu/edit?usp=sharing&ouid=108259912517381307676&rtpof=true&sd=true)
 
 **Skills:** Data Analysis and Interpretation, Financial Analysis, Data Visualization, Statistical Analysis (Basic), Market Research & Analysis
+
 **Technology:** Microsoft Excel (advanced formulas, pivot tables)
+
 **Results:** The return on investment (ROI) analysis suggests that the product can generate sustainable profitability if supported by an effective pricing strategy and efficient cost management. Market analysis also indicates a positive demand outlook, particularly within target segments that value automation and efficiency.
 
 ### Python
